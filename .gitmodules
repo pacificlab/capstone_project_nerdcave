@@ -1,0 +1,9 @@
+[submodule "capstone_project_nerdcave_mechanical"]
+	path = capstone_project_nerdcave_mechanical
+	url = https://github.com/pacificlab/capstone_project_nerdcave_mechanical.git
+[submodule "capstone_project_nerdcave_firmware"]
+	path = capstone_project_nerdcave_firmware
+	url = https://github.com/pacificlab/capstone_project_nerdcave_firmware.git
+[submodule "capstone_project_nerdcave_hardware"]
+	path = capstone_project_nerdcave_hardware
+	url = https://github.com/pacificlab/capstone_project_nerdcave_hardware.git
